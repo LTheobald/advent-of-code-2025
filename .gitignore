@@ -1,0 +1,15 @@
+# IDE settings
+.idea/
+.vscode/
+
+# Build outputs
+/build/
+/out/
+/target/
+/dist/
+/bin/
+/classes/
+
+# Gradle/Kotlin caches
+/.gradle/
+/.kotlin/
